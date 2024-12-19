@@ -1,0 +1,17 @@
+Prerequisites:
+Python 3.6 or higher.
+Install the yt-dlp library using:
+bash
+Copy code
+pip install yt-dlp
+Usage:
+Clone the repository:
+bash
+Copy code
+git clone <repository_url>
+cd <repository_folder>
+Run the script:
+bash
+Copy code
+python video_downloader.py
+Provide video URLs separated by commas when prompted.
